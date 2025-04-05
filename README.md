@@ -75,3 +75,11 @@ All reports can be saved as .csv files for further analysis.
 - Estimated pit stop lengths in seconds for selected cars and median pit stop time for relevant classes.
 
 For most graphs, traffic, tyre compounds, fuel remaining, fuel added, overtakes and driver names markers can be plotted as overlays on the main chart.
+
+## Known bugs and limitations:
+- Only rFactor 2 XML logs for the Race, Warmup, Qualifying, Practice and Test Day sessions are supported.
+- Some functionally will be disabled for logs with incomplete data (fuel, tyre wear, etc.). Only server XML logs has data on fuel and tyre wear (rFactor 2 limitation).
+- Gaps graph, traffic and overtake detection will be disabled for local logs recorded not from the start of the session.
+- Very long laps (for example, Nurburgring-Nordschleife) may cause incorrect detection of traffic and overtakes.
+- Functions that check track position, race time and lap time may provide unexpected results when active driver disconnects during a race session, then reconnects and continues driving.
+- Legend can display only up to 50 drivers. There are no limits on plotting, but 51st and other drivers will not be displayed in the legend.
