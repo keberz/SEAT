@@ -21,6 +21,8 @@ Visual C++ Redistributable for Visual Studio 2015 must be installed on PC to lau
 - Store as many session logs as you need in a single database
 - Quickly load any session log into the program in one click
 - Summary statistics for all session logs in the database on one page
+
+![Database](https://github.com/user-attachments/assets/7caef460-c6a9-4c9a-b5b7-d0e07caae6a0)
 ​
 ### Reports
 
@@ -30,13 +32,19 @@ Visual C++ Redistributable for Visual Studio 2015 must be installed on PC to lau
 - Session classification overall and for every class
 - Position changes relative to starting positions
 
+![Session](https://github.com/user-attachments/assets/a9c9a534-571e-4ab7-8828-32710cd0cb57)
+
 **Drivers**
 - Fastest laps, theoretical best times, best sector times, number of laps completed for every driver
 - Average pace and consistency
 - Average fuel consumption for every driver
 
+![Drivers](https://github.com/user-attachments/assets/22bb1b9e-b503-4428-a0dc-1d12e57b956c)
+
 **Stints**
 - Summary statistics for every stint completed by every driver in the session, including tyre compound, average tyre wear, number of laps, stint time, average pace (excluding pit in/out laps and outliers), consistency, average fuel consumption and fuel load, fastest lap, theoretical best and fastest sector times.
+
+![Stints](https://github.com/user-attachments/assets/fa2563fc-7455-4d1d-ae1d-fe87865e61b5)
 
 **Timecards**
 - Detailed data for every driver and completed lap, including lap number, track position, notes (traffic, pit entry/exit, etc.), lap time, sector times, session time, gap to leader, gap ahead, gap behind, tyre compound, tyre wear for every wheel, fuel consumption.
@@ -53,6 +61,8 @@ All reports can be saved as .csv files for further analysis.
 **Gaps (race session only)**
 - Gaps on track to race leader or any car in the session
 
+![Gaps](https://github.com/user-attachments/assets/718d5fdd-1d3e-45e3-ba95-125ca8cd8bc8)
+
 **Laps**
 - Lap times, with or without outliers
 
@@ -65,11 +75,15 @@ All reports can be saved as .csv files for further analysis.
 **Pace**
 - Box plots and sorted lap time visualisations for race pace analysis
 
+![Pace](https://github.com/user-attachments/assets/647e9f18-01a5-4491-a4e5-8ea0ed47b83d)
+
 **Fuel**
 - Remaining fuel
 
 **Wear**
 - Tyre remaining for all wheels
+
+![Tyre analysis](https://github.com/user-attachments/assets/e6977df3-5f3f-43b2-8f14-06ebfa8e4207)
 
 **​Pits (race session only)**
 - Estimated pit stop lengths in seconds for selected cars and median pit stop time for relevant classes.
