@@ -6,7 +6,12 @@ Strategy Engineer Assistance Tool (SEAT) for rFactor 2 is designed to efficientl
 SEAT for rFactor 2 is free to use for non-commercial purposes.
 
 ## Installation
-[MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) version 24.1 or later is required to run the software. SEAT installer will automatically check if MATLAB Runtime is installed on the PC and, if needed, will download the most recent version and install it with the software.
+- Download the latest release.
+- Install .exe file from the archive as any other software.
+- [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) version 24.1 or later is required to run the software. SEAT installer will automatically check if MATLAB Runtime is installed on the PC and, if needed, will download the most recent version and install it with the software.
+- After you launch SEAT, use “File -> Load XML log” to load logs. Your local rFactor 2 XML logs are located in ..Steam\steamapps\common\rFactor 2\UserData\Log\Results folder.
+
+Visual C++ Redistributable for Visual Studio 2015 must be installed on PC to launch the installer itself. These components should be on most PCs by default, but if you get an error about missing DLL, install C++ runtime library from [Microsoft website](https://www.microsoft.com/en-gb/download/details.aspx?id=48145).
 
 ## Features
 
