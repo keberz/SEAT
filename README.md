@@ -3,7 +3,7 @@
 ## Overview
 Strategy Engineer Assistance Tool (SEAT) for rFactor 2 is designed to efficiently summarise timing and telemetry data provided by the rFactor 2 simulator. It allows for easy analysis of session results, summaries of performance indices, lap and sector performance, and race strategy planning and management. The software is configurable for data display and analysis tailored to specific needs. Only rFactor 2 XML logs for the Race, Warmup, Qualifying, Practice and Test Day sessions are supported.
 
-SEAT for rFactor 2 is free to use for non-commercial purposes.
+SEAT was in development between January 2022 and May 2024.
 
 ## Installation
 - Download the latest release.
